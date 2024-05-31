@@ -16,16 +16,14 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Hemant+Prajapati">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>India</b> 」
+    「 I am a <b>Software Developer</b> from <b>India</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/hemantpr88/" target="blank">
+ <a href="https://www.pseudosoftservices.com/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="hemantpraja" />
  </a>
  <a href="https://www.linkedin.com/in/hemantpr88/" target="_blank">
@@ -89,7 +87,7 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=hemantpraja&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hemantpraja/itasks)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=hemantpraja&repo=BookTourCabs&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hemantpraja/BookTourCab)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=hemantpraja&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hemantpraja/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=hemantpraja&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hemantpraja/web-projects)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=hemantpraja&repo=hemantpraja&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hemantpraja/hemantpraja)
@@ -121,6 +119,6 @@
 </a>
 
 
-![Hemant's Graph](https://github-readme-activity-graph.vercel.app/graph?username=hemantpraja&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Hemant's Graph](https://github-readme-activity-graph.vercel.app/graph?username=hemantpraja&custom_title=Hemant's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
