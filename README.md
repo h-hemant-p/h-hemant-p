@@ -1,10 +1,10 @@
 <a   href="https://komarev.com/ghpvc/?username=hemantpraja">
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-  `<img align="right" src="https://komarev.com/ghpvc/?username=hemantpraja&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />`
-  `<img  align="right" src="https://img.shields.io/github/followers/hemantpraja?label=Followers&style=social" alt="GitHub Badge">`
-`</a>`
-`<br/>`
+  <img align="right" src="https://komarev.com/ghpvc/?username=hemantpraja&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img  align="right" src="https://img.shields.io/github/followers/hemantpraja?label=Followers&style=social" alt="GitHub Badge">
+</a>
+<br/>
 
 <h3 align="center">
         <samp>> Hey There!, I am
@@ -49,9 +49,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
- ✌️ &emsp; Enjoy to do programming and sharing knowledge `<br/><br/>`
- ❤️ &emsp; Love to writing code and learning new features`<br/><br/>`
- 📧 &emsp; Reach me anytime: hemantpraja88@gmail.com`<br/><br/>`
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
+ ❤️ &emsp; Love to writing code and learning new features <br/>
+ 📧 &emsp; Reach me anytime: hemantpraja88@gmail.com <br/>
  💬 &emsp; Ask me about anything [here](https://github.com/hemantpraja/hemantpraja/issues)
 
 </p>
