@@ -7,19 +7,19 @@
 <br/>
 <br/>
 
-<h3 align="center">
+<h2 align="center">
         <samp>> Hey There!, I am
                 <b><a target="_blank" href="https://www.linkedin.com/in/hemantpr88/">Hemant Prajapati</a></b>
         </samp>
-</h3>
+</h2>
 
-<p align="center"> 
+<h3 align="center"> 
   <samp>
     「 I am a <b>Software Developer</b> from <b>India</b> 」
     <br>
     <br>
   </samp>
-</p>
+</h3>
 
 <p align="center">
  <a href="https://www.pseudosoftservices.com/" target="blank">
@@ -47,7 +47,7 @@
 
 # About me
 
-<p>
+<h4>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
@@ -55,7 +55,7 @@
  📧 &emsp; Reach me anytime: hemantpraja88@gmail.com <br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/hemantpraja/hemantpraja/issues)
 
-</p>
+</h4>
 
 <br/>
 <br/>
