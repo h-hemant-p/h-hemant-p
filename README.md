@@ -1,18 +1,16 @@
 <a   href="https://komarev.com/ghpvc/?username=hemantpraja">
-  
-  [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-  <img align="right" src="https://komarev.com/ghpvc/?username=hemantpraja&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-  <img  align="right" src="https://img.shields.io/github/followers/hemantpraja?label=Followers&style=social" alt="GitHub Badge">
-</a>
-<br/>
 
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+  `<img align="right" src="https://komarev.com/ghpvc/?username=hemantpraja&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />`
+  `<img  align="right" src="https://img.shields.io/github/followers/hemantpraja?label=Followers&style=social" alt="GitHub Badge">`
+`</a>`
+`<br/>`
 
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>> Hey There!, I am
                 <b><a target="_blank" href="https://www.linkedin.com/in/hemantpr88/">Hemant Prajapati</a></b>
         </samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
@@ -45,14 +43,15 @@
 <br />
 
 <!-- About Section -->
- # About me
- 
+
+# About me
+
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: hemantpraja88@gmail.com<br/><br/>
+
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge `<br/><br/>`
+ ❤️ &emsp; Love to writing code and learning new features`<br/><br/>`
+ 📧 &emsp; Reach me anytime: hemantpraja88@gmail.com`<br/><br/>`
  💬 &emsp; Ask me about anything [here](https://github.com/hemantpraja/hemantpraja/issues)
 
 </p>
@@ -81,16 +80,17 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=hemantpraja&repo=BookTourCabs&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hemantpraja/BookTourCab)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=hemantpraja&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hemantpraja/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=hemantpraja&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hemantpraja/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=hemantpraja&repo=hemantpraja&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hemantpraja/hemantpraja)
+
+[![PersonalBlog](https://github-readme-stats.vercel.app/api/pin/?username=hemantpraja&repo=PersonalBlog&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hemantpraja/BookTourCab)
+[![TrueFeedback](https://github-readme-stats.vercel.app/api/pin/?username=hemantpraja&repo=TrueFeedback&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hemantpraja/urfolio)
+[![Attractive Css Designs](https://github-readme-stats.vercel.app/api/pin/?username=hemantpraja&repo=AttractiveCssDesigns&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hemantpraja/web-projects)
+[![BookTourCab](https://github-readme-stats.vercel.app/api/pin/?username=hemantpraja&repo=BookTourCab&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hemantpraja/hemantpraja)
 
 <p align="left">
   <a href="https://github.com/hemantpraja?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -118,7 +118,4 @@
   <br/>
 </a>
 
-
 ![Hemant's Graph](https://github-readme-activity-graph.vercel.app/graph?username=hemantpraja&custom_title=Hemant's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
