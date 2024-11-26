@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Skills & Coursework
 <h4>
 🧑‍💻Programming Language :- Java ✦ JavaScript ✦ Python ✦ PHP ✦ C (Basic) ✦ C++ (Basic)
 <br/>
