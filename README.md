@@ -51,14 +51,14 @@
  <br/>
 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new tecgnologies <br/><br/>
+ 👩🏻‍💻 &emsp; Love to explore the world of Cyber Security <br/><br/>
  📧 &emsp; Reach me anytime: hemantpraja88@gmail.com <br/><br/>
+ 📑 &emsp; Get my resume from [here](https://hemantprajapati.vercel.app/resume)<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/hemantpraja/hemantpraja/issues)
 
 </h4>
 
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -66,7 +66,24 @@
 <h4>
 🧑‍💻Programming Language :- Java ✦ JavaScript ✦ Python ✦ PHP ✦ C (Basic) ✦ C++ (Basic)
 <br/>
-💻Web & App Development :- MERN ✦ Next.js ✦ Django ✦ React Native ✦ Tailwind CSS ✦ Bootstrap ✦ HTML ✦ CSS
+<br/>
+🗄️IT Construct's :- OOPS ✦ OOPS ✦ DSA ✦ OS ✦ DBMS ✦ Computer Networking ✦ System Design(Beginner)
+<br/>
+<br/>
+🌐Web & App Development :- MERN ✦ Next.js ✦ Django ✦ React Native ✦ Tailwind CSS ✦ Bootstrap ✦ HTML ✦ CSS
+<br/>
+<br/>
+🛢️Databases :- MongoDB ✦ MySQL ✦ Oracle ✦ SQL(Query Language)
+<br/>
+<br/>
+⚙️DevOps :- Git ✦ Docker 
+<br/>
+<br/>
+🛠️Development tools/software's :- VS Code ✦ Android Studio ✦ GitHub ✦ GitLab ✦ MongoDB Compass ✦ MySQL  Workbench
+<br/>
+<br/>
+🖥️Operating System's :- Windows ✦ Ubuntu ✦ Kali Linux ✦ Fedora
+<br/>
 </h4>
 
 <hr/>
