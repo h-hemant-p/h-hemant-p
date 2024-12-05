@@ -91,7 +91,7 @@
 
 <p align="center">
   <a href="https://github.com/hemantpraja">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantpraja&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantpraja&theme=radical&border=7F3FBF&background=0D1117" alt="Hemants's GitHub streak"/>
   </a>
 </p>
 
