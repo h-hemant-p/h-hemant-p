@@ -54,7 +54,7 @@
  ❤️ &emsp; Love to writing code and learning new tecgnologies <br/><br/>
  👩🏻‍💻 &emsp; Love to explore the world of Cyber Security <br/><br/>
  📧 &emsp; Reach me anytime: hemantpraja88@gmail.com <br/><br/>
- 📑 &emsp; Get my resume from [here](https://d8it4huxumps7.cloudfront.net/uploads/attachements/user-resumes/6759bf6d5e2c9_Software_Developer.pdf)<br/><br/>
+ 📑 &emsp; Get my resume from [here](https://www.linkedin.com/in/hemantpr88/)<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/hemantpraja/hemantpraja/issues)
 
 </h4>
