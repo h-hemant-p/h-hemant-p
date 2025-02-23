@@ -1,14 +1,14 @@
-<a   href="https://komarev.com/ghpvc/?username=hemantpraja">
+<a   href="https://komarev.com/ghpvc/?username=h-emant-p">
 
-  <img align="left" src="https://komarev.com/ghpvc/?username=hemantpraja&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-  <img  align="right" src="https://img.shields.io/github/followers/hemantpraja?label=Followers&style=social" alt="GitHub Badge">
+  <img align="left" src="https://komarev.com/ghpvc/?username=h-hemant-p&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img  align="right" src="https://img.shields.io/github/followers/h-hemant-p?label=Followers&style=social" alt="GitHub Badge">
 </a>
 <br/>
 <br/>
 
 <h1 align="center">
         <samp>> Hey There!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/hemantpr88/">Hemant Prajapati</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/h-hemant-p/">Hemant Prajapati</a></b>
         </samp>
 </h1>
 
@@ -24,13 +24,13 @@
 <!--  <a href="https://hemantprajapati.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="hemantpraja" />
  </a> -->
- <a href="https://www.linkedin.com/in/hemantpr88/" target="_blank">
+ <a href="https://www.linkedin.com/in/h-hemant-p/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hemantpraja"/>
  </a>
  <!-- <a href="https://dev.to/hemantpraja" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="hemantpraja" />
  </a> -->
- <a href="https://x.com/HemantP31987529" target="_blank">
+ <a href="https://x.com/h_hemant_p" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/h_hemant_p/" target="_blank">
@@ -54,8 +54,8 @@
  ❤️ &emsp; Love to writing code and learning new tecgnologies <br/><br/>
  👩🏻‍💻 &emsp; Love to explore the world of Cyber Security <br/><br/>
  📧 &emsp; Reach me anytime: hemantpraja88@gmail.com <br/><br/>
- 📑 &emsp; Get my resume from [here](https://www.linkedin.com/in/hemantpr88/)<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/hemantpraja/hemantpraja/issues)
+ 📑 &emsp; Get my resume from [here](https://www.linkedin.com/in/h-hemant-p/)<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/h-hemant-p/h-hemant-p/issues)
 
 </h4>
 
@@ -90,23 +90,23 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/hemantpraja">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantpraja&theme=radical&border=7F3FBF&background=0D1117" alt="Hemants's GitHub streak"/>
+  <a href="https://github.com/h-hemant-p">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-hemant-p&theme=radical&border=7F3FBF&background=0D1117" alt="Hemants's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/hemantpraja">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemantpraja&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/h-hemant-p">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-hemant-p&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
 
 <p align="center"> 
-    <a href="https://github.com/hemantpraja" align="center">
-      <img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hemantpraja&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="55%"/>
+    <a href="https://github.com/h-hemant-p" align="center">
+      <img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=h-hemant-p&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="55%"/>
     </a>
-  <a href="https://github.com/hemantpraja" align="center">
-    <img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hemantpraja&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="40%"/>
+  <a href="https://github.com/h-hemant-p" align="center">
+    <img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=h-hemant-p&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="40%"/>
   </a>
 <!--   <br/> -->
 </p>
